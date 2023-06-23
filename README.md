@@ -8,7 +8,7 @@ Released: October 16, 2022
 
 Demo: https://youtu.be/6tjk6iFT5-w
 
-Reddit Post: 
+Reddit Post: https://www.reddit.com/r/tasker/comments/14gx0uq/project_share_telegram_download_notifications/
 
 Import: https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3ATelegram+Download+Notifications
 
