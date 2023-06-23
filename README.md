@@ -2,9 +2,9 @@
 
 <h1>🦊</h1>
 
-Released: October 16, 2022
+Create notification for each file or picture saved locally though telegram i.e. when 'Save to Downloads' or 'Save to Gallery' option is used.
 
-Create notification for each file or picture saved locally though telegram i.e. when 'Save to Downloads' or 'Save to Gallery' option is used.<br><br>
+Released: October 16, 2022
 
 Demo: https://youtu.be/6tjk6iFT5-w
 
